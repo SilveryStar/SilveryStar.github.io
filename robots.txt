@@ -12,5 +12,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://www.silverystar.top/sitemap.xml
-Sitemap: https://www.silverystar.top/baidusitemap.xml
+Sitemap: https://silverystar.top/sitemap.xml
+Sitemap: https://silverystar.top/baidusitemap.xml
