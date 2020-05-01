@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.silverystar.top/test/</loc>
-    <lastmod>2020-04-29</lastmod>
+    <loc>https://www.silverystar.top/RiichiMahjongSyanten/</loc>
+    <lastmod>2020-05-01</lastmod>
   </url>  <url>
-    <loc>https://www.silverystar.top/hello-world/</loc>
-    <lastmod>2020-04-29</lastmod>
+    <loc>https://www.silverystar.top/ExpansionBackpackProblem/</loc>
+    <lastmod>2020-05-01</lastmod>
+  </url>  <url>
+    <loc>https://www.silverystar.top/BasicBackpackProblem/</loc>
+    <lastmod>2020-05-01</lastmod>
+  </url>  <url>
+    <loc>https://www.silverystar.top/BasicNumberTheory/</loc>
+    <lastmod>2020-05-01</lastmod>
   </url>
 </urlset>
